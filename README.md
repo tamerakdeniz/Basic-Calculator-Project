@@ -22,7 +22,7 @@ This repository contains a simple Python-based calculator that performs basic ar
 
 3.  **Run the desired file:**
     ```bash
-    python filename.py
+    python main.py
 
 ## 📚 Resources
 - <a href = "https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br>
