@@ -28,7 +28,7 @@ This repository contains a simple Python-based calculator that performs basic ar
 - <a href = "https://www.udemy.com/course/100-days-of-code/">100 Days of Code</a> <br>
 - Python Official Documentation <br>
 - W3Schools Python <br>
-- GeeksforGeeks Python <br>
+- Real Python <br>
 
 ## 🤝 Contributing
 1. Fork the project.<br>
